@@ -1,0 +1,1 @@
+# Funciones auxiliares (cálculo de DICE, carga de datos...)

@@ -1,0 +1,1 @@
+# Script de entrenamiento para OrganMNIST3D (3D)

@@ -1,0 +1,1 @@
+# Script de entrenamiento para PathMNIST (2D)
