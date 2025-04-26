@@ -4,8 +4,9 @@ import torch.optim as optim
 from medmnist import INFO, PathMNIST
 from torch.utils.data import DataLoader
 from torchvision import transforms
-from scripts.unet import UNet
-from scripts.utils import dice_score
+#from scripts.unet import UNet
+from unet import UNet
+from utils import dice_score
 
 # Configuración
 info = INFO['pathmnist']
